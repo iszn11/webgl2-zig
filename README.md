@@ -1,4 +1,7 @@
 # WebGL 2 with Zig
+
+https://user-images.githubusercontent.com/7891270/133292444-1d69307d-a8d1-4ff9-99ff-7cc0a41c5397.mp4
+
 Spinning cube in WebGL 2 made with Zig programming language compiled to
 WebAssembly.
 
